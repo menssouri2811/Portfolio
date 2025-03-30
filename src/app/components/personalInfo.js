@@ -104,7 +104,7 @@ export default function PersonalInfo() {
           </a>
           
           <a 
-            href="https://github.com/yassine-mdn" 
+            href="https://github.com/menssouri2811" 
             aria-label="GitHub"
             className="social-icon-link-top"
             target="_blank"
@@ -182,7 +182,7 @@ export default function PersonalInfo() {
               </a>
               
               <a 
-                href="https://github.com/yassine-mdn" 
+                href="https://github.com/menssouri2811" 
                 aria-label="GitHub"
                 className="social-icon-link"
                 target="_blank"
